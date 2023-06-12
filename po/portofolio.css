@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: sans-serif;
+    background-color: black;
+}
+header{
+    background-color: brown;
+    padding: 30px;
+    text-align: right;
+    z-index: 10;
+    width: 97%;
+    position: fixed;
+    justify-content: flex-end;
+
+}
+a{
+     text-decoration: none;
+     color: white;
+     font-size: 20px;
+     padding: 20px;
+}
+
+.po{
+    padding: 300px;
+    background-color: none;
+}
+h1{
+    color: aliceblue;
+text-align: center;
+font-size: 63px;
+
+}
+
+p{
+    color: red;
+    text-align: center;
+    font-size: 40px;
+}
+.moi{
+    padding: 400px;
+    background-color: blue;
+    text-align: #45567d;
+}
+.moi p{
+    color: aliceblue;
+    font-size: 20px;
+    text-decoration: underline;
+}
+.loi{
+padding: 0px;
+
+}
